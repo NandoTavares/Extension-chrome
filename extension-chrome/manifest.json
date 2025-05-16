@@ -1,0 +1,11 @@
+{
+  "name": "Gemini Mini Chat",
+  "version": "1.0.0",
+  "description": "Mini chat com Gemini para tirar dúvidas enquanto navega",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Gemini Chat"
+  },
+  "permissions": ["storage"]
+}
