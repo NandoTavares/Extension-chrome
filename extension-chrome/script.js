@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AIzaSyD1xjv38tK41bvnzRupkAu8Dwfj4hW82-o";
+const GEMINI_API_KEY = "";
 
 document.getElementById("send").addEventListener("click", async () => {
     const prompt = document.getElementById("prompt").value.trim();
